@@ -50,7 +50,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>br.com.getnet.portais.minhaconta.db.api.DBApplication.class</mainClass>
+                            <mainClass>br.com.moreirallan.keepon.MainApplication.class</mainClass>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                         </manifest>
                     </archive>
